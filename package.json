@@ -1,0 +1,24 @@
+{
+  "name": "huffman",
+  "version": "1.0.0",
+  "description": "Compression algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicmars5/huffman.git"
+  },
+  "keywords": [
+    "compression",
+    "algorithms",
+    "huffman"
+  ],
+  "author": "Victor Diaz <mars.vic5@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicmars5/huffman/issues"
+  },
+  "homepage": "https://github.com/vicmars5/huffman#readme"
+}
